@@ -1,18 +1,72 @@
 {
   "usuarios": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "nome": "Bruno Nascimentoo",
+      "email": "bruno.nascimento@gmail.com",
+      "telefone": "(09)87654-3210",
+      "id": 2
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "nome": "João Luiz",
+      "email": "amanhecido@gmail.com",
+      "telefone": "(31)3261-5558",
+      "id": 3
+    },
+    {
+      "nome": "Marilia Pires ",
+      "email": "marilia@rilia.com",
+      "telefone": "(31)3333-3333",
+      "id": 4
+    },
+    {
+      "nome": "Jose Merivaldo Santos",
+      "email": "jose.santos@temp.com",
+      "telefone": "(31)99999-2222",
+      "id": 5
+    },
+    {
+      "nome": "Joana da Silva",
+      "email": "joana.silva@temp.vom.br",
+      "telefone": "(31)98765-4321",
+      "id": 6
+    }
+  ],
+  "compromissos": [
+    {
+      "start": "2025-11-05T00:39",
+      "duration": 60,
+      "usuarioId": 2,
+      "id": 1
+    },
+    {
+      "start": "2025-10-31T00:00",
+      "duration": 120,
+      "usuarioId": 3,
+      "id": 2
+    },
+    {
+      "start": "2025-11-06T00:00",
+      "duration": 60,
+      "usuarioId": 2,
+      "id": 3
+    },
+    {
+      "start": "2025-11-06T00:00",
+      "duration": 60,
+      "usuarioId": 2,
+      "id": 4
+    }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "titulo": "Aprender Node",
+      "concluida": false
+    },
+    {
+      "id": 2,
+      "titulo": "Estudar Angular",
+      "concluida": true
     }
   ]
 }
