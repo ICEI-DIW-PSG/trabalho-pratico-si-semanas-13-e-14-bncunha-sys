@@ -9,15 +9,16 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Bruno Nascimento Cunha 
+- Matricula: 905809
+- Proposta de projeto escolhida: trabalho de implementação de divulgação 
+- Breve descrição sobre seu projeto: divulgar o ct de treinamento jiu jitsu 
 
 **Print da tela com a implementação**
 
-<< Coloque aqui uma breve explicação da implementação feita nessa etapa>>
+Um sistema de agendamento que exbe os apontamentos no calendario
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
+![Calendario](imagem01.jpg)
+![Edição](imagem02.jpg)
 
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+
